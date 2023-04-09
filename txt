@@ -1,0 +1,28 @@
+1)how to make a element inline 
+2)block
+3)inline
+4)none
+//
+
+display : inline
+display :block
+
+//
+top
+left
+right 
+bottom
+//
+pading
+
+
+///
+google fonts
+colour hunt
+
+//dynamic fontsize
+100%=16px fontsize
+1em=16px fontsize
+//
+howvaew you 
+

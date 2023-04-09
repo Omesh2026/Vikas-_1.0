@@ -1,0 +1,130 @@
+.bg-container {
+    color:
+    #8087a8
+    ; 
+    height:100vh;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    
+
+} 
+.first_page_heading {
+
+    padding-top:130px
+
+    
+}
+.first_page_paragraph {
+
+    padding-top:0px
+    
+}
+.button {
+ border-radius: 10px;
+ border-width: 10px;
+ border-color: rgb(164, 227, 164);
+
+}
+
+.first_page_heading_2 {
+ 
+   padding-top:0px
+
+    
+}
+.first_page_paragraph_2 {
+
+   padding-top:0px
+    
+}
+.head_line {
+    margin-top:40px;
+   width:600px
+   
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins', sans-serif;
+    box-sizing: border-box;
+}
+body {
+    display:flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #121114;
+    color: black;
+    
+}
+.container {
+    width: 100vh;
+    padding: 60px;
+    padding-right: 60px;
+    text-align: center;
+    color: black;
+    
+
+}
+.entryarea {
+    position: relative;
+    height: 10px;
+    line-height: 80px;
+    
+}
+input {
+    position: absolute;
+    width: 40%;
+    outline: none;
+    font-size: 2.2em;
+    padding: 0 30x;
+    border-radius:10px;
+    line-height: 80px;
+    border: 2px solid;
+    background:transparent;
+    transition: 0.1s ease;
+    z-index: 1111;
+    color: black;
+    
+}
+.labelline {
+    position: absolute;
+    font-size: 18px;
+    color: #f0ffff;
+    padding: 0 25px;
+    margin: 0 20px;
+    background: transparent;
+    transition: 0.2s ease;
+    color: black;
+    font-weight: bolder;
+   
+}
+input:focus,
+input:valid {
+     color:#a35c18;
+     border: 4px solid black ;
+}
+input:focus + .labelline,
+input:valid + .labelline {
+     color:#a35c18;
+     height: 20px;
+     line-height: 30px;
+     transform: translate(-15px,-16px);
+     z-index: 1111;
+}
+.farmer_page_css {
+    text-align: center;
+}
+.farmer_submit_button{
+    margin-top: 60px;
+    background-color:transparent;
+    border-width: 4px;
+    border-style: double;
+    font-weight: bolder;
+    line-height: 40px;
+    color: green;
+}
