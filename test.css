@@ -1,0 +1,45 @@
+.bg-container {
+    color:
+    #8087a8
+    ; 
+    height:100vh;
+    text-align:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:30px;
+    
+
+} 
+.first_page_heading {
+
+    padding-top:130px
+
+    
+}
+.first_page_paragraph {
+
+    padding-top:0px
+    
+}
+.button {
+ border-radius: 10px;
+ border-width: 10px;
+ border-color: rgb(164, 227, 164);
+
+}
+
+.first_page_heading_2 {
+ 
+   padding-top:0px
+
+    
+}
+.first_page_paragraph_2 {
+
+   padding-top:0px
+    
+}
+.head_line {
+    margin-top:40px;
+   width:600px
+   
+}
